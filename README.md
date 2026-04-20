@@ -1,20 +1,24 @@
-## Hi there 👋
+Hi there 👋 I'm Mohammed Jahlan
 
+🚀 About Me
 
-Junior Backend Developer | Laravel & PHP  
-Interested in building scalable web applications  
-Learning React & Next.js
-<!--
-**mohj-dev/mohj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Junior Backend Developer (Laravel & PHP)
+- Learning React.js and Next.js
+- Passionate about building web applications
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: PHP, Laravel
+- Frontend: React.js, Next.js (Basic)
+- Database: MySQL
+- Tools: Git, VS Code
+
+📌 Projects
+
+- Laravel Product Management Dashboard
+- Simple E-commerce (React & Next.js)
+
+📫 Contact Me
+
+- Email: mohammedjahlan40@email.com
+- LinkedIn: linkedin.com/in/mohammed-jhlan-7b4603379
