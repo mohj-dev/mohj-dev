@@ -20,5 +20,5 @@ Hi there 👋 I'm Mohammed Jahlan
 
 📫 Contact Me
 
-- Email: mohammedjahlan40@email.com
+- Email: mohammedebrihamgahlan@gmail.com
 - LinkedIn: linkedin.com/in/mohammed-jhlan-7b4603379
